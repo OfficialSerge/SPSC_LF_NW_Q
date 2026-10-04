@@ -1,0 +1,17 @@
+{
+  "tests": 1,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "pointless_ass_test",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "test_equality",
+          "file": "\/home\/serge\/Code\/C++\/SPSC\/test\/tests.cpp",
+          "line": 7
+        }
+      ]
+    }
+  ]
+}

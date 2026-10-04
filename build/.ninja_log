@@ -1,0 +1,17 @@
+# ninja log v7
+2	916	1791085344551468451	external/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	5be6873c6748368d
+2	994	1791085344551468451	CMakeFiles/spsc_tests.dir/test/tests.cpp.o	6eca4c1564fb326d
+3	1202	1791085344551468451	external/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	86eb2a7f4adff385
+2	1758	1791085344551468451	external/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	6a67f11dc441a51f
+2	3353	1791085344551468451	external/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	a72b53652eb26b58
+3353	3586	1791085347905281475	lib/libgtest.a	efca9cf6d32452ef
+3586	3614	1791085348136155609	lib/libgtest_main.a	75dd2822d158b993
+3586	3629	1791085348136155609	lib/libgmock.a	2613e46d7bd391a9
+3629	3660	1791085348182330436	lib/libgmock_main.a	18582f41f9ac8def
+3614	3742	1791085348291470938	spsc_tests	b6fa80fb3610000a
+3614	3742	1791085348291470938	spsc_tests_e3b0c442_tests.cmake	b6fa80fb3610000a
+3614	3742	1791085348291470938	/home/serge/Code/C++/SPSC/build/spsc_tests_e3b0c442_tests.cmake	b6fa80fb3610000a
+2	950	1791085504237364227	CMakeFiles/spsc_tests.dir/test/tests.cpp.o	6eca4c1564fb326d
+951	1092	1791085505324947907	spsc_tests	b6fa80fb3610000a
+951	1092	1791085505324947907	spsc_tests_e3b0c442_tests.cmake	b6fa80fb3610000a
+951	1092	1791085505324947907	/home/serge/Code/C++/SPSC/build/spsc_tests_e3b0c442_tests.cmake	b6fa80fb3610000a

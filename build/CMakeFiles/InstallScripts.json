@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/serge/Code/C++/SPSC/build/cmake_install.cmake",
+		"/home/serge/Code/C++/SPSC/build/external/cmake_install.cmake",
+		"/home/serge/Code/C++/SPSC/build/external/googletest/cmake_install.cmake",
+		"/home/serge/Code/C++/SPSC/build/external/googletest/googlemock/cmake_install.cmake",
+		"/home/serge/Code/C++/SPSC/build/external/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,5 @@
+if(EXISTS "/home/serge/Code/C++/SPSC/build/spsc_tests_e3b0c442_tests.cmake")
+  include("/home/serge/Code/C++/SPSC/build/spsc_tests_e3b0c442_tests.cmake")
+else()
+  add_test(spsc_tests_NOT_BUILT spsc_tests_NOT_BUILT)
+endif()

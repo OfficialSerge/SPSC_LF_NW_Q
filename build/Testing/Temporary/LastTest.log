@@ -1,0 +1,41 @@
+Start testing: Oct 03 22:45 CDT
+----------------------------------------------------------
+1/1 Testing: pointless_ass_test.test_equality
+1/1 Test: pointless_ass_test.test_equality
+Command: "/home/serge/Code/C++/SPSC/build/spsc_tests" "--gtest_filter=pointless_ass_test.test_equality" "--gtest_also_run_disabled_tests"
+Directory: /home/serge/Code/C++/SPSC/build
+"pointless_ass_test.test_equality" start time: Oct 03 22:45 CDT
+Output:
+----------------------------------------------------------
+Running main() from /home/serge/Code/C++/SPSC/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = pointless_ass_test.test_equality
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from pointless_ass_test
+[0;32m[ RUN      ] [mpointless_ass_test.test_equality
+/home/serge/Code/C++/SPSC/test/tests.cpp:7: Failure
+Expected equality of these values:
+  GetMeaningOfLife()
+    Which is: 42
+  40
+ERROR OH NO!
+
+[0;31m[  FAILED  ] [mpointless_ass_test.test_equality (0 ms)
+[0;32m[----------] [m1 test from pointless_ass_test (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+[0;31m[  FAILED  ] [m1 test, listed below:
+[0;31m[  FAILED  ] [mpointless_ass_test.test_equality
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"pointless_ass_test.test_equality" end time: Oct 03 22:45 CDT
+"pointless_ass_test.test_equality" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 03 22:45 CDT

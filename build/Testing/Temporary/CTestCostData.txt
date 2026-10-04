@@ -1,0 +1,3 @@
+pointless_ass_test.test_equality 4 0
+---
+pointless_ass_test.test_equality
